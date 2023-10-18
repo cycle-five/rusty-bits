@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+    "borrowing"
+]
+
+resolver = "2"
