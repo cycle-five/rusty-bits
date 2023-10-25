@@ -1,7 +1,8 @@
 [workspace]
 
 members = [
-    "borrowing"
+    "borrowing",
+    "http"
 ]
 
 resolver = "2"
