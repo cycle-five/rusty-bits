@@ -1,4 +1,4 @@
-use reqwest;
+
 use std::error::Error;
 
 pub async fn resolve_final_url(url: &str) -> Result<String, Box<dyn Error>> {

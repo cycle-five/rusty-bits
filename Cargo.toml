@@ -2,7 +2,9 @@
 
 members = [
     "borrowing",
-    "http"
+    "http",
+    "arc",
+    "slices"
 ]
 
 resolver = "2"
